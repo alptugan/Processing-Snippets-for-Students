@@ -1,5 +1,7 @@
 /*
 a jumping action
+
+HIT Space to simulate jumping action
  */
 
 float ballX = 100;
@@ -12,7 +14,7 @@ int direction = 1;
 int jumpDist = 100;
 
 void setup() {
-  size(400, 400);
+  size(600, 600);
   smooth();
   noStroke();
 
@@ -26,8 +28,8 @@ void setup() {
 
 void draw() {
   //clear the background and set the fill colour
-  background(0);
-  fill(255);
+  background(255);
+  fill(20);
 
   
   if ( direction == 1) {
