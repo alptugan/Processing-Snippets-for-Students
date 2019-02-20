@@ -21,14 +21,5 @@
 5- **loadAndPlayVideo**: Loads the video specified in the sketch. The user can play, stop, re-play and loop the loaded video via keyboard.
 
 <img src="./loadAndPlayVideo/loadAndPlayVideo.gif" width="600">
-![jumping_action_via_keyboard](./jumping_action_keyboard/jumping_action_via_keyboard.gif)
-
----
-3- **rotate_with_mouse**: Rotates the related display object according to x position of the mouse.
-![rotate_with_mouse](./rotate_with_mouse/rotate_with_mouse_Pos_X.gif)
-
----
-4- **rotate_with_mouse_to_point**: Rotates the related display object according to x and y position of the mouse.
-![rotate_with_mouse_to_point](./rotate_with_mouse_to_point/rotate_with_mouse_Pos_X_Y.gif)
 
 ---
