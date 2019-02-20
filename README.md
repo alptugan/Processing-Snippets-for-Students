@@ -6,14 +6,17 @@
 
 ---
 2- **jumping_action_keyboard**: Simulates basics of gravity affect on a display object. Usefull for mini games in order to simulate jumping action.  
-![falling things](./jumping_action_keyboard/jumping_action_via_keyboard.gif)
+![jumping_action_via_keyboard](./jumping_action_keyboard/jumping_action_via_keyboard.gif)
 
 ---
 3- **rotate_with_mouse**: Rotates the related display object according to x position of the mouse.
-![falling things](./rotate_with_mouse/rotate_with_mouse_Pos_X.gif)
+![rotate_with_mouse](./rotate_with_mouse/rotate_with_mouse_Pos_X.gif)
 
 ---
 4- **rotate_with_mouse_to_point**: Rotates the related display object according to x and y position of the mouse.
-![falling things](./rotate_with_mouse_to_point/rotate_with_mouse_Pos_X_Y.gif)
+![rotate_with_mouse_to_point](./rotate_with_mouse_to_point/rotate_with_mouse_Pos_X_Y.gif)
 
+---
+5- **loadAndPlayVideo**: Loads the video file specified path. The user can play, stop, re-play and loop the loaded video via keyboard. 
+![loadAndPlayVideo](./loadAndPlayVideo/loadAndPlayVideo.gif)
 ---
