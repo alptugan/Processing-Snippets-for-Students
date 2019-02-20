@@ -17,6 +17,3 @@
 ![rotate_with_mouse_to_point](./rotate_with_mouse_to_point/rotate_with_mouse_Pos_X_Y.gif)
 
 ---
-5- **loadAndPlayVideo**: Loads the video file specified path. The user can play, stop, re-play and loop the loaded video via keyboard. 
-![loadAndPlayVideo](./loadAndPlayVideo/loadAndPlayVideo.gif)
----
