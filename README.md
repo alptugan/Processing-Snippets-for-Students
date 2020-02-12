@@ -23,3 +23,6 @@
 <img src="./loadAndPlayVideo/loadAndPlayVideo.gif" width="600">
 
 ---
+6- **bezier_generator**: Generates interactively bezier function control points and curve start/end point coordinates.
+
+<img src="./bezier_generator/bezier_generator.gif" width="600">
